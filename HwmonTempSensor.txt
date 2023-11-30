@@ -1,0 +1,7 @@
+root@loongson-obmc:~# busctl tree xyz.openbmc_project.HwmonTempSensor 
+`-/xyz
+  `-/xyz/openbmc_project
+    `-/xyz/openbmc_project/sensors
+      `-/xyz/openbmc_project/sensors/temperature
+        |-/xyz/openbmc_project/sensors/temperature/Temp1
+        `-/xyz/openbmc_project/sensors/temperature/Temp2

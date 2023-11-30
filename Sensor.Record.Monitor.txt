@@ -1,0 +1,4 @@
+root@loongson-obmc:~# busctl tree xyz.openbmc_project.Sensor.Record.Monitor
+`-/xyz
+  `-/xyz/openbmc_project
+    `-/xyz/openbmc_project/sensor_record
